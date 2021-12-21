@@ -1,0 +1,143 @@
+body {
+
+  font-family:sans-serif;
+  box-sizing: border-box;
+  margin: 5px;
+}
+.top {
+  border: 2px solid black;
+}
+h1 {
+  margin: 10px;
+}
+.left {
+  border: 2px solid;
+  border-right: 0px;
+  height: 685px;
+  border-top: 0px;
+  float: left;
+  width: 20.6%;
+}
+.right {
+  border: 2px solid;
+  border-top: 0px;
+  height: 685px;
+  float: right;
+    width: 79%;
+}
+.or {
+  border: 2px solid;
+  font-size: 22px;
+  padding: 5px;
+  border-bottom: 0px;
+}
+.aa {
+  margin: 15px;
+}
+.bb {
+  padding: 5px;
+  margin: 5px;
+}
+.ba {
+  padding: 5px;
+  padding-right: 33px;
+  margin: 5px;
+}
+.data {
+border: 2px solid;
+margin-top: 4px;
+padding-left: 5px;
+padding-top: 4px;
+padding-bottom: 4px;
+}
+.se {
+  padding: 5px;
+  margin: 5px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.lb {
+  border: 2px solid;
+  margin-top: 5px;
+  padding-bottom: 10px;
+  text-align: center;
+}
+.po {
+  display: inline-block;
+}
+.bh {
+  border: 2px solid;
+  border-top: 0px;
+  border-right: 0px;
+  border-left: 0px;
+  float: left;
+  width: 60.6%;
+}
+h2 {
+  margin-left:10px;
+}
+.sd {
+  border: 2px solid;
+  border-top: 0px;
+  border-right: 0pc;
+  border-left: 0px;
+  float: right;
+  width: 39.4%;
+  height: 68px;
+  text-align: right;
+}
+.it {
+list-style: none;
+padding: 0px;
+padding-right: 10px;
+margin: 0px;
+}
+.lastblock {
+  border: 2px solid;
+  margin: 10px;
+  margin-top: 80px;
+  height: 188px;
+}
+.lastblockleft {
+
+  margin: 5px;
+  margin-right: 0px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  float: left;
+  width: 69%;
+
+}
+.lastblockright{
+
+  margin-left: 0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: 5px;
+  float: right;
+  width: 28%;
+}
+.ai {
+  display: inline-block;
+  padding: 60px;
+}
+table {
+  padding: 0px;
+}
+button {
+  width: 170px;
+  height: 30px;
+}
+.secondblock {
+  border: 2px solid;
+  margin: 10px;
+  margin-top: 5px;
+  height: 188px;
+}
+.thirdblock {
+  border: 2px solid;
+  margin: 10px;
+  margin-top: 5px;
+  height: 188px;
+}
